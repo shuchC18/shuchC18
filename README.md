@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @shuchC18 a passionate self-taught machine learning engineer and I am doing PG Diploma in English journalism. I am highly interested in making predictive model based on the given datasets, and currently working on Machine learning and deep learning problems.
+- 👋 Hi, I’m @shuchC18 — an aspiring Quantitative Analyst with a strong foundation in machine learning, Python programming, and data analysis. With a Masters' in Physics followed by PG Diploma in English journalism, I have keen interest in world economics and finance. Currently, I am developing expertise in finance and economics. I enjoy building predictive models, analyzing financial data, and applying statistical techniques to uncover actionable insights.
 
-- 👀 I’m interested in data journalism.
-- 🌱 I’m currently learning data journalism.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👀 I’m interested in quantitative finance, financial modeling, and algorithmic trading
+
+🌱 Currently learning portfolio optimization, risk analysis, and financial econometrics
+
+📊 Working on projects involving stock market prediction, factor models, and ML in finance
+
+💬 Open to collaborating on quant research and finance-related data science projects
+
+📫 Reach out to me on LinkedIn
 
 <!---
 shuchC18/shuchC18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
