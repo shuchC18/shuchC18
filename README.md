@@ -12,8 +12,6 @@ Quantitative modeling and machine learning in finance
 
 Factor models, time series forecasting, and financial econometrics
 
-📫 Reach out to me on LinkedIn
-
 <!---
 shuchC18/shuchC18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
