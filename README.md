@@ -2,13 +2,13 @@ I'm a data science enthusiast with a foundation in physics and professional expe
 
 Now, I’m transitioning into hands-on roles in data science with a growing focus on finance and quantitative research. I enjoy working with Python, SQL, and Power BI to uncover actionable insights and support smarter decision-making through data storytelling.
 
-🔍 Interests
+🔍 **Interests**
 
 Financial analytics, risk analysis, and portfolio optimization
 
 Quantitative modeling and machine learning in finance
 
-🛠 Currently Exploring
+🛠 **Currently Exploring**
 
 Factor models, time series forecasting, and financial econometrics
 
