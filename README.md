@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @shuchC18 — an aspiring Quantitative Analyst with a strong foundation in machine learning, Python programming, and data analysis. With a Masters' in Physics followed by PG Diploma in English journalism, I have keen interest in world economics and finance. I enjoy building predictive models, analyzing financial data, and applying statistical techniques to uncover actionable insights.
+I'm a data science enthusiast with a foundation in physics and professional experience as a technical writer, specializing in topics like machine learning, data engineering, and analytics. Over the past year, I’ve built a strong understanding of core data concepts while translating them into clear, engaging content for diverse audiences.
 
-👀 I’m interested in quantitative finance, financial modeling, and algorithmic trading
+Now, I’m transitioning into hands-on roles in data science with a growing focus on finance and quantitative research. I enjoy working with Python, SQL, and Power BI to uncover actionable insights and support smarter decision-making through data storytelling.
 
-🌱 Currently learning portfolio optimization, risk analysis, and financial econometrics
+🔍 Interests
+Financial analytics, risk analysis, and portfolio optimization
 
-📊 Working on projects involving stock market prediction, factor models, and ML in finance
+Quantitative modeling and machine learning in finance
 
-💬 Open to collaborating on quant research and finance-related data science projects
+🛠 Currently Exploring
+Factor models, time series forecasting, and financial econometrics
 
 📫 Reach out to me on LinkedIn
 
