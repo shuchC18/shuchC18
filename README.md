@@ -1,4 +1,4 @@
-I'm a data science enthusiast with a foundation in physics and professional experience as a technical writer, specializing in topics like machine learning, data engineering, and analytics. Over the past year, I’ve built a strong understanding of core data concepts while translating them into clear, engaging content for diverse audiences.
+I'm a data science enthusiast with a foundation in physics and professional experience as a technical writing, data analsis, EDA, and documentation specializing in topics like machine learning, data engineering, and analytics. Over the past year, I’ve built a strong understanding of core data concepts while translating them into clear, engaging content for diverse audiences.
 
 Now, I’m transitioning into hands-on roles in data science with a growing focus on finance and quantitative research. I enjoy working with Python, SQL, and Power BI to uncover actionable insights and support smarter decision-making through data storytelling.
 
@@ -11,6 +11,9 @@ Quantitative modeling and machine learning in finance
 🛠 **Currently Exploring**
 
 Factor models, time series forecasting, and financial econometrics
+
+**Work**
+- research paper in structural properies of matter.
 
 <!---
 shuchC18/shuchC18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
