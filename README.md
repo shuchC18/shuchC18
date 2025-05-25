@@ -40,7 +40,7 @@ With a strong foundation in scientific research and structured thinking, I love 
 
 ## 📚 Research Snapshot
 
-- 📝 Published paper on **structural properties of matter**, exploring the physics behind material interactions and simulations.
+- 📝 Published paper on **Study of Structural and Electrical Properties of CaRuO3**, exploring the physics behind material interactions and simulations.
 - 🔬 Experience in **quantitative research**, experimental analysis, and modeling—now applying these methods to data science.
 
 ---
